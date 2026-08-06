@@ -15,7 +15,7 @@ Estudantes de Ciência da Computação ou áreas afins que:
 ## Objetivos de aprendizagem
 
 Ao final deste guia, você deve ser capaz de:
-- explicar o que é C e por que ele ainda é relevante hoje;
+- explicar a importância da linguagem C e o porque ela se amntém relevante até os dias atuais;
 - escrever, compilar e executar um programa simples em C;
 - declarar variáveis dos tipos primitivos e usar operadores básicos;
 - ler e escrever dados com `scanf` e `printf`;
