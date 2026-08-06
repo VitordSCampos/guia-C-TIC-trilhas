@@ -9,13 +9,15 @@ Este é um guia introdutório à linguagem C, pensado para quem está começando
 ## Público-alvo
 
 Estudantes de Ciência da Computação ou áreas afins que:
+
 - nunca programaram em C antes, mas já têm alguma noção de lógica de programação (variáveis, condicionais, laços em outra linguagem);
 - querem uma referência rápida e prática, com exemplos, antes de uma prova ou projeto.
 
 ## Objetivos de aprendizagem
 
 Ao final deste guia, você deve ser capaz de:
-- - descrever os fundamentos da linguagem C e justificar por que ela continua sendo usada hoje;
+
+- explicar os fundamentos da linguagem C e por que ela se mantém relevante até os dias atuais;
 - escrever, compilar e executar um programa simples em C;
 - declarar variáveis dos tipos primitivos e usar operadores básicos;
 - ler e escrever dados com `scanf` e `printf`;
