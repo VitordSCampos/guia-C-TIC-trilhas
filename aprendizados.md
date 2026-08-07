@@ -1,23 +1,14 @@
 # Aprendizados
 
-> Este arquivo é para você preencher depois de concluir o projeto — é uma reflexão pessoal sobre o processo, não conteúdo técnico do guia. Substitua as perguntas abaixo pelos seus próprios parágrafos antes da entrega.
+Com a execução deste projeto foram absorvidas e praticadas funções fundamentais para um bom uso e funcionamento pleno das ferramenteas GIT e GitHub, essenciais para um bom profissional da ciência da computação, reforçando a importância da organização e do registro do conehcimento em projetos de desenvolvimento de software.
 
-## O que eu aprendi sobre o tema (C)
+## Durante o desenvolvimento deste projeto, foram praticados os seguintes conceitos:
 
-*(Ao organizar e explicar C para outra pessoa, o que ficou mais claro pra você? Algo que você não esperava?)*
+- Versionamento de código com Git.
+- Hospedagem e gerenciamento de projetos no GitHub.
+- Organização de documentação utilizando Markdown.
+- Criação de commits descritivos e acompanhamento do histórico de versões.
+- Estruturação de um repositório para fins de estudo e documentação.
+- Consolidação dos conceitos fundamentais da linguagem C por meio da criação de um guia prático.
 
-## O que eu aprendi sobre Git/GitHub
 
-*(Quais comandos ou conceitos fizeram mais sentido só depois de usar na prática? O que foi mais difícil — branches, pull request, resolver o conflito?)*
-
-## Dificuldades encontradas
-
-*(Onde você travou durante o projeto? Como resolveu?)*
-
-## O que eu faria diferente
-
-*(Organizaria os commits de outro jeito? Planejaria o conflito de forma diferente?)*
-
-## Próximos passos
-
-*(Esse guia vira material de revisão para a prova da Apple Developer Academy? Vai expandir com mais conteúdo — vetores, funções, ponteiros?)*
