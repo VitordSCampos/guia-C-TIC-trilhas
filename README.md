@@ -1,6 +1,5 @@
 # Guia de Aprendizado — Introdução à Linguagem C
 
-> Material didático produzido como projeto da trilha de Desenvolvimento Colaborativo com GitHub, cobrindo os fundamentos da linguagem C.
 
 ## Sobre este guia
 
